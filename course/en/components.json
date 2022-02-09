@@ -1,0 +1,4311 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "AF intro",
+    "displayTitle": "",
+    "body": "<p>The&nbsp;<a href=\"https://www.gov.uk/government/organisations/government-analysis-function?cachebust=1578916468\">Analysis Function</a>&nbsp;is a cross-government network consisting of around 17,000 people involved in the generation and dissemination of analysis across government and beyond. The head of the Analysis Function is Sir Ian Diamond.</p><p>&nbsp;</p><p>The Analysis Function brings together analysts from across different professions, such as statisticians, economists, operational researchers etc, but also includes anyone who produces analysis, evidence or research across government. Read more about some of&nbsp;the different types of analyst in the next section.&nbsp;</p><p>&nbsp;</p><p>The role of the Function (and analysis more widely) is to support&nbsp;government to make stronger, evidence-based decisions so that policy and operations&nbsp;deliver value for money and improve the lives of the people in the UK. With all analysts coming together as an Analysis Function, we can strive towards consistent professional standards of analysis.</p>",
+    "_id": "610125f24e98473e7dc5a203",
+    "_parentId": "610125f24e98473e7dc5a202",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Quality of code",
+    "displayTitle": "Quality of code",
+    "body": "<p>While the quality of datais essential for analysts, so is the quality of the code used to perform the analysis. There is guidance on <a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html\">Quality Assurance of Code for Analysis and Research</a> produced by the Government Statistical Service&nbsp;and the Analysis Function, which can act as a useful technical resource for the analysts producing the code. The <a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/principles.html\">Principles page</a> contains a useful overview for anyone involved in the running of an analytical project and talks through the three founding principles of good analysis:</p><ul><li><strong>Reproducible</strong> - Other analysts should be able to replicate the work performed; if they run the same analysis, on the same data, they should obtain the same results. Transparency here underpins the above two principles, and supports the requirements of the <a href=\"https://www.statisticsauthority.gov.uk/code-of-practice/\">Code of Practice for Statistics</a>.&nbsp;</li><li><strong>Auditable</strong> - The reasons behind the analysis should be known, any decisions made should be based on evidence and recorded to safeguard during future scrutiny.&nbsp;&nbsp;</li><li><strong>Assured</strong> - Often through peer review, the analytical choices made should be understood and reasonable. Quality assurance should be proportional - analysts shouldn't be overburdened with procedure when unnecessary - and guidance on this is often taken from the <a href=\"https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government\">Aqua Book</a>.</li></ul>",
+    "_id": "610135144e98473e7dc5a22c",
+    "_parentId": "610135144e98473e7dc5a22b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>Performing analysis is primarily done for the insight it provides. Producing a report with tables of data can only give limited information, being able to explain any derived insight is absolutely key.</p><p>This aids policy makers in making informed decisions, provides useful context to members of the public and looks to explain the answer to the timeless question of ‘<strong>so what?</strong>’. Using evidence to analyse, for example, the impact of a policy can help you quantify successes as well as areas that need further improvement or investment.</p><p>Make sure you consult with analysts early in this process – they are experts for a reason! They will be able to guide you through what evidence is already available, and its quality or reliability, as well as support you through collecting your own data or evidence. Furthermore, they can advise you on whether your expectations are realistic based on timescales, resources and explanatory power of available evidence. Use insights from a range of the specialisms covered in the Analysis Function section, to develop a rich and unbiased body of analysis.</p><p>Some professions offer guidance for communicating analytical outputs, these are linked at the end of this section.</p>",
+    "_id": "610135624e98473e7dc5a238",
+    "_parentId": "610135624e98473e7dc5a237",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "",
+    "body": "<p>Before analysis can begin, some thought is needed around what the desired results are.&nbsp;</p><p>Key considerations include:</p><ul><li>What results are you looking for?</li><li>What data is needed to perform the analysis?</li><li>Are there any ethical concerns that need to be considered.&nbsp;&nbsp;</li></ul><p>These correspond with the first two parts of the Analysis Lifecycle from the&nbsp;<a href=\"https://www.gov.uk/government/publications/government-analysis-functional-standard--2\">Government Functional Standard for Analysis</a>;&nbsp;Scoping the analysis, and Designing and planning the analysis. The lifecycle is designed to be an iterative process, with plenty of room for refinement, and returning to earlier steps when new information comes to light.</p>",
+    "_id": "6101565e4e98473e7dc5a23a",
+    "_parentId": "610156394e98473e7dc5a239",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Scoping the analysis",
+    "displayTitle": "Scoping the analysis",
+    "body": "<p>Scoping the analysis ensures that the question to be answered is defined to a level where analysis can proceed.&nbsp;</p><p>As part of this process, a number of tasks should be completed in collaboration with analysts who will be undertaking the work:&nbsp;</p><ol><li>Record&nbsp;the purpose of the analysis</li><li>Define&nbsp;the levels of quality and certainty that are needed</li><li>Explore requirements and scope with stakeholders</li></ol><p>Clear definitions at this stage of the expectations of the work will simplify the rest of the process. Refinement may be needed at&nbsp;later stages of the analytical process.&nbsp;</p>",
+    "_id": "610158424e98473e7dc5a240",
+    "_parentId": "610158284e98473e7dc5a23f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "610170074e98473e7dc5a253",
+    "_parentId": "610156394e98473e7dc5a239",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "The analytical cycle",
+      "large": "course/en/assets/772be23c47071704668a4bf8912b17b141a16867.svg",
+      "small": "course/en/assets/772be23c47071704668a4bf8912b17b141a16867.svg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction to quality assurance",
+    "displayTitle": "Introduction to quality assurance",
+    "body": "<ul><li>Quality of data&nbsp;</li><li>Quality of statistics</li><li>Quality of code</li><li>Reproducible Analytical Pipelines</li></ul><p>During the scoping stage of an analysis project, levels of quality and certainty that are required were defined. While this is in reference to the overall quality of the statistics being published, there are other areas where quality must be observed.&nbsp;</p>",
+    "_id": "6102be614e98473e7dc5a2c8",
+    "_parentId": "6102be514e98473e7dc5a2c7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Quality of data",
+    "displayTitle": "Quality of data",
+    "body": "<p>Ensuring the quality of data used in analysis is essential.&nbsp;Given that our analysis is always data-driven, issues with the data can cause problems throughout the entire analytical lifecycle of a project. There is an <a href=\"https://bpi-courses.github.io/Introduction_to_Data_Quality\">Introduction to Data Quality </a>provided by the <a href=\"https://www.gov.uk/government/organisations/government-data-quality-hub\">Government Data Quality Hub</a>, accessible to all members of the Civil Service,&nbsp;and explains principles that should be applied to all government data.&nbsp;</p><p>Good quality data helps us understand society, improve services and design effective policies, while poor quality data can have reputational, legal, and financial impacts. Anyone who uses, shares, or manages data has a role to play in its quality - not just those who collect it.&nbsp;&nbsp;</p><p>With increasing awareness of data and privacy in the public, government handling of data is closely scrutinised, and improper procedures can cause irreparable damage to public perceptions, as well as allowing organisations to come under threat of legal action, or have to pay substantial fines. The <a href=\"https://www.gov.uk/data-protection\">Data Protection Act (2018)</a> - the UK's implementation of General Data Protection Regulation (GDPR) - states that information must be 'accurate', 'used lawfullly', and 'handled in a way that ensures appropriate security'.&nbsp;</p>",
+    "_id": "6102c5574e98473e7dc5a2ca",
+    "_parentId": "6102c5514e98473e7dc5a2c9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Quality statistics",
+    "displayTitle": "Quality statistics",
+    "body": "<p>Anyone who works with statistics in government has a responsibility to produce high quality statistics, where quality is fundamental to building public trust in government statistics. The <a href=\"https://gss.civilservice.gov.uk/policy-store/quality-statistics-in-government\">Quality Statistics in Government</a>&nbsp;page contains guidance which underpins how quality should be handled while producing statistics.&nbsp;</p><p>Statistical outputs should meet the quality requirements of the <a href=\"https://code.statisticsauthority.gov.uk/the-code/\">Code of Practice for Statistics</a>. The code is based on three fundamental pillars: Trustworthiness, Quality, and Value. These pillars are interconnected - high quality statistics improves perceptions of trustworthiness, and are more likely to contribute increased value.&nbsp;The Quality pillar has three principles:</p><ul><li><strong>Suitable data sources</strong>&nbsp;- any statistics produced should be based on the most appropriate data, while limitations should be assessed, minimised, and explained.&nbsp;</li><li><strong>Sound methods</strong>&nbsp;- the best available methods and standards should be used during statistical production, with decisions made and methodology used openly reported.&nbsp;</li><li><strong>Assured quality</strong>&nbsp;- clear explanation should be provided of how statistics and data have been assured as being accurate, reliable, coherent, and timely.</li></ul><p>&nbsp;</p>",
+    "_id": "610404524e98473e7dc5a2d8",
+    "_parentId": "610404444e98473e7dc5a2d7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Quality statistics",
+    "displayTitle": "Quality statistics",
+    "body": "<p>Anyone who works with statistics in government has a responsibility to produce high quality statistics, where quality is fundamental to building public trust in government statistics. The <a href=\"https://gss.civilservice.gov.uk/policy-store/quality-statistics-in-government\">Quality Statistics in Government</a>&nbsp;page contains guidance which underpins how quality should be handled while producing statistics.&nbsp;</p><p>Statistical outputs should meet the quality requirements of the <a href=\"https://code.statisticsauthority.gov.uk/the-code/\">Code of Practice for Statistics</a>. The code is based on three fundamental pillars: Trustworthiness, Quality, and Value. These pillars are interconnected - high quality statistics improves perceptions of trustworthiness, and are more likely to contribute increased value.&nbsp;The Quality pillar has three principles.</p>",
+    "_id": "6104067f4e98473e7dc5a2da",
+    "_parentId": "6104067b4e98473e7dc5a2d9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Suitable data",
+        "body": "<p>Any statistics produced should be based on the most appropriate data, while limitations should be assessed, minimised, and explained</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Sound methods",
+        "body": "<p>The best available methods and standards should be used during statistical production, with decisions made and methodology used openly reported.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Assured quality",
+        "body": "<p>Clear explanation should be provided of how statistics and data have been assured as being accurate, reliable, coherent, and timely.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Quality of code",
+    "displayTitle": "Quality of code",
+    "body": "<p>The code written to perform the analysis should be quality assured. There is guidance on&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html\">Quality Assurance of Code for Analysis and Research</a>&nbsp;produced by the Government Statistical Service&nbsp;and the Analysis Function, which can act as a useful resource for the analysts producing the code. The&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/principles.html\">Principles page</a>&nbsp;contains a useful overview for anyone involved in the running of an analytical project and talks through the three founding principles of good analysis.</p>",
+    "_id": "61040ae64e98473e7dc5a2dd",
+    "_parentId": "61040aa44e98473e7dc5a2db",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Reproducible",
+        "body": "<p>Other analysts should be able to replicate the work performed; if they run the same analysis, on the same data, they should obtain the same results. This&nbsp;supports the requirements of the&nbsp;<a href=\"https://www.statisticsauthority.gov.uk/code-of-practice/\">Code of Practice for Statistics</a>.</p><p>With the modern programming and collaboration tools now available, entire processing pipelines can be created to simplify the entire analytical process. What previously would involve the combination of proprietary analytical tools coupled with standard Microsoft Office software to manually create statistics can be automated into a single pipeline which can accurately complete the same steps every time the outputs need to be produced.&nbsp;</p><p>More and more analysts are publishing their source code for public scrutiny on the internet. There are a wide number of commonly used online repositories for open code, which builds confidence in published results.&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Auditable",
+        "body": "<p>The reasons behind the analysis should be known, any decisions made should be based on evidence and recorded to safeguard during future scrutiny.&nbsp;&nbsp;</p><p>Having key decisions documented, with information such as who made the decision, when it was made, and the reasoning behind it, will build confidence in the procedures completed, and help to tell the story of the analysis. Allowing others who have not worked on the project to see the code and decisions, allows for constructive challenges to be made, flaws to be pointed out, or suggestions for expansions to be received.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Assured",
+        "body": "<p>Often through peer review, the analytical choices made should be understood and reasonable. Quality assurance should be proportional - analysts shouldn't be overburdened with procedure when unnecessary - and guidance on this is often taken from the&nbsp;<a href=\"https://www.gov.uk/government/publications/the-aqua-book-guidance-on-producing-quality-analysis-for-government\">Aqua Book</a>.</p><p>Quality assurance is a concept that can be thought about at all stages of an analytical project, from first conception, to iterations on the final results. Peer review as the project is ongoing is an excellent way to assure the validity of code written, and choices made. Substantial changes made to the code should be raised for consideration with other analysts on the team, to increase the likelihood that unforeseen side effects&nbsp;do not appear.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Sampling",
+    "displayTitle": "Sampling",
+    "body": "<p style=\"text-align:justify\">Samples are used to generate estimates of the entire population from a smaller, representative group. The larger the sample, the greater the resources required, but the more representative the sample becomes.&nbsp;Therefore, sampling becomes a trade off between accuracy and cost.&nbsp;</p><p>&nbsp;</p><p>A census aims to collect&nbsp;data from the entire population, with the 2021 Census receiving responses from 97% of households in England and Wales. This provides a high-quality snapshot of demographic data that other surveys can be compared against. However, an operation like this requires substantial time and funding in order to plan, run and prepare results. For example, the work on the census between 2010 and 2021 was estimated to cost around £900m&nbsp;[<a href=\"https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/2021censuscostsdatasharingfinesdatasecurityandquestions\">ONS, 2021</a>].</p><p>&nbsp;</p><p>Meanwhile, the COVID-19 Infection Survey selects a smaller sample of the population and uses this to estimate antibody levels for the whole of the UK. As a sample requiring less time and resources, the results for this survey are published one week after data collection is complete.&nbsp;</p><p>&nbsp;</p><p>The quality of a sample depends on factors including:&nbsp;</p><ul><li>The size of the sample</li><li>The sampling frame - what data was used to select participants?</li><li>Was the selection random - did each member of the population of interest have an equal chance of being selected?</li></ul><p>&nbsp;</p><p>In essence, we take a sample to produce as reliable estimates of the population as possible with the resources available, rather than a sample. However, the sample, as a snapshot of the whole, can never perfectly represent the population, leaving some error or uncertainty.&nbsp;</p>",
+    "_id": "6107ae2c4e98473e7dc5a2de",
+    "_parentId": "610135114e98473e7dc5a225",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Weighting/Estimation",
+    "displayTitle": "Weighting/Estimation",
+    "body": "<p>One way in which we can make our sample more representative of the wider population is by weighting.&nbsp;</p><p>&nbsp;</p><p>Weighting corrects imbalances in the proportions of certain characteristics in a sample vs the population. For example, in the 2011 Census, which we can take as the most accurate reflection of demographic statistics at the time, females made up 51% of the UK population.&nbsp;If a survey sample at that time&nbsp;had only 40% females,&nbsp;we could give a weight of 1.28&nbsp;to each female and a weight of 0.82 to each male. This would result in our sample having the same proportion of males to females as the population in any analysis produced with the data. Weighting is particularly useful for representing parts of the population who are less likely to respond to surveys.&nbsp;</p><p>&nbsp;</p><p>Other demographic characteristics such as age, ethnicity, social class etc are often considered when weighting samples. Weighting for these characteristics is especially important when the characteristic may influence a respondent's answers. For example, if we overly represent older participants in a sample for research investigating employment, we may produce inflated estimates of salary, as older participants have moved further up the career ladder. However, if we weight our data to correct this misrepresentation, our estimates are much more likely to represent the true figure from the population.&nbsp;</p>",
+    "_id": "6107b2da4e98473e7dc5a2e1",
+    "_parentId": "6107b2cd4e98473e7dc5a2e0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "More Resources",
+    "displayTitle": "More Resources",
+    "body": "<p><a href=\"https://gss.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/\">Government Statistical Service guidance on \"Communicating, Quality, Uncertainty and Change\"</a></p><p><a href=\"https://analystsuncertaintytoolkit.github.io/UncertaintyWeb/exec.html\">Uncertainty Toolkit for Analysts in Government</a>&nbsp;from the Government Actuary’s&nbsp;Department, particularly the introduction and summary to understand the importance of considering uncertainty.</p><p>For more information on specific methodological topics, there are awareness-level courses available on the learning hub in the following topics:&nbsp;</p><ul><li><a href=\"https://gss.civilservice.gov.uk/training/awareness-in-administrative-data/\">Awareness in Administrative Data</a></li><li><a href=\"https://gss.civilservice.gov.uk/training/awareness-in-data-ethics/\">Awareness in Data Ethics</a>&nbsp;</li><li><a href=\"https://gss.civilservice.gov.uk/training/awareness-in-data-linkage/\">Awareness in Data Linkage</a></li><li><a href=\"https://gss.civilservice.gov.uk/training/awareness-in-demography/\">Awareness in Demography</a></li><li><a href=\"https://gss.civilservice.gov.uk/training/awareness-in-editing-and-imputation/\">Awareness in Editing and&nbsp;Imputation</a></li><li><a href=\"https://gss.civilservice.gov.uk/training/awareness-in-geography-for-statistics/\">Awareness in Geography in Statistics</a></li><li><a href=\"https://gss.civilservice.gov.uk/training/awareness-in-index-numbers/\">Awareness in Index Numbers</a></li><li><a href=\"https://gss.civilservice.gov.uk/training/awareness-in-questionnaire-design/\">Awareness in Questionnaire Design</a>&nbsp;</li><li><a href=\"https://gss.civilservice.gov.uk/training/awareness-in-sample-design-and-estimation/\">Awareness in Sample Design and&nbsp;Estimation&nbsp;</a></li><li>Awareness in <a href=\"https://gss.civilservice.gov.uk/training/awareness-in-time-series/\">Time Series</a>, <a href=\"https://gss.civilservice.gov.uk/training/awareness-in-forecasting/\">Forecasting</a> and <a href=\"https://gss.civilservice.gov.uk/training/awareness-in-seasonal-adjustment/\">Seasonal Adjustment</a>&nbsp;</li><li><a href=\"https://gss.civilservice.gov.uk/training/awarenses-in-small-area-estimation/\">Awareness in Small Area Estimation</a></li></ul><p>&nbsp;</p>",
+    "_id": "6107bd114e98473e7dc5a2e5",
+    "_parentId": "6107bcf04e98473e7dc5a2e4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data linkage",
+    "displayTitle": "Data linkage",
+    "body": "<p>Technological advancements into a data-rich society have resulted in opportunities for data linkage, a methodological process whereby individual's records from multiple data sources are linked together. This allows data from different areas to be linked and analysed, producing findings that maximise data utilisation and provide insights into relationships across areas (such as linking health records with educational outcomes).</p><p>&nbsp;</p><p>Sometimes, data linkage methods are simpler, such as when a unique identifier (i.e. NHS number) can be used to match records. In other instances more complicated methods are developed to account for typos, human error or other inconsistences in identifiers. In all linkage methods, some level of error is unavoidable. Linkage error, either incorrectly linking individuals or missing a duplicated individual's records, can affect analysis produced. This again adds another dimension of uncertainty or potential error to analytical findings that must be considered and communicated.</p>",
+    "_id": "6107f21c4e98473e7dc5a2f7",
+    "_parentId": "6107f20b4e98473e7dc5a2f6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Time series ",
+    "displayTitle": "",
+    "body": "<p><strong>Seasonal adjustment</strong></p><p>Seasonal adjustment, frequently used in official statistics, is a technique to remove systematic calendar-related variation associated with the time of year from time series data. For example, seasonal trends in a temperature time series result in lower values in winter months. Removing seasonal variation from data will uncover the underlying trends, enabling an analyst to evaluate whether a specific change may be attributable to a policy change or economic factors rather than a pattern of seasonal variation.</p>",
+    "_id": "6107f56a4e98473e7dc5a2f9",
+    "_parentId": "6107f55d4e98473e7dc5a2f8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Regression",
+    "displayTitle": "Regression",
+    "body": "<p>Regression analysis is a modelling technique analysts can use to make predictions and detect relationships. A model is a simplified representation of a real-world relationship using mathematical equations.&nbsp;While you may not need to understand how to create your own regression models, it is important to understand the general process and caveats. This will ensure any results or analysis produced using regression are correctly interpreted and communicated.</p><p>&nbsp;</p><p>There are multiple types of regression, with different types being suitable for different types of variables (i.e. continuous vs. categorical). Essentially, regression analysis creates an equation for the line of best fit in the data (blue line in Fig 1). When you have values for your independent variables, you can plug them into the equation and make a prediction for the dependent variable of interest. Like any statistical analysis, regression comes with an element of uncertainty and so these predictions have corresponding confidence levels, intervals and p-values (statistical significance).</p><p>&nbsp;</p>",
+    "_id": "6107f5b74e98473e7dc5a2fb",
+    "_parentId": "6107f5b24e98473e7dc5a2fa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Government Functional Standard for Analysis",
+    "displayTitle": "Government Functional Standard for Analysis",
+    "body": "<p>The <a href=\"https://www.gov.uk/government/publications/government-analysis-functional-standard--2\">Government Functional Standard</a>&nbsp;for Analysis&nbsp;has been developed to set a standard expectation for any analysis produced across government, and to develop trust in analytical capability.&nbsp;It brings together&nbsp;guidance and standards from across the 7 professions of the Analysis Function.&nbsp;</p><p>The standard is aimed both at the producers and users of analysis, including non-analysts, particularly regarding their expectations for&nbsp;analysis. The main points applicable to non-analysts are:&nbsp;</p><ul><li>\"inform Ministers and other leaders from the outset through interdisciplinary working\"</li><li>\"the analysis is widely consulted upon, open to and encompasses a range of different perspectives from partners and users of analysis\"</li><li>\"the results of the analysis are written and presented so they can be easily understood by, and are useful to, the user\"</li><li>\"user needs are responded to while applying analytical best practice, precision and rigour in their work\"</li><li>\"that public service codes of conduct and ethics and those of associated professions are upheld\"</li></ul>",
+    "_id": "6107f8214e98473e7dc5a2fd",
+    "_parentId": "6107f81a4e98473e7dc5a2fc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6107fea44e98473e7dc5a2fe",
+    "_parentId": "610125f24e98473e7dc5a202",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "AF professions as brain",
+      "large": "course/en/assets/7ac488ebf56ebf44c852b176f8dc23166a7ded8c.png",
+      "small": "course/en/assets/7ac488ebf56ebf44c852b176f8dc23166a7ded8c.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Ultimately, be critical of visualisations before drawing insights, and consider using multiple sources of evidence before coming to any conclusions.&nbsp;</p><p><strong>More Resources</strong></p><p><a href=\"https://gss.civilservice.gov.uk/policy-store/introduction-to-data-visualisation/\">GSS Data Visualisation Guidelines</a></p><p><a href=\"https://ft-interactive.github.io/visual-vocabulary/\">Financial Times Visual Vocabulary</a></p><p><a href=\"https://style.ons.gov.uk/category/data-visualisation/\">ONS presenting data guidelines</a></p>",
+    "_id": "610915184e98473e7dc5a318",
+    "_parentId": "610915134e98473e7dc5a317",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "610944444e98473e7dc5a31e",
+    "_parentId": "610945b94e98473e7dc5a322",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all the correct statements below",
+    "_items": [
+      {
+        "text": "Retail sales were lowest in April 2020",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "Retail sales have consistently decreased since July 2020",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Overall, retail sales have slightly increased since July 2020 despite a previous dip.&nbsp;</p>"
+      },
+      {
+        "text": "Before February 2020, retail sales volumes were relatively stationary",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct!</p>"
+      },
+      {
+        "text": "Retail Sales were highest in October 2020",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Retail sales were highest in April 2021.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Retail sales reached their lowest point in April 2020, just after lockdown began.</p><p>Before February 2020, sales were relatively stable (although they were on a slight upward trend).&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Since July 2020, retail sales have both grown and fallen, they have not been consistently decreasing.&nbsp;</p><p>Retail sales were actually highest in April 2021, exactly a year after they were at their lowest.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "<p>Some of your answers were correct.&nbsp;</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Data visualisations are either used for exploratory (gaining familiarity and understanding the dataset, variable or relationship) or explanatory purposes (communicating a particular message). Ultimately, creating data visualisations should make the data more digestible and easier to understand than picking out the same message from a block of text.&nbsp;</p><p>They can be used to show:</p><ul><li>Comparison - between data points</li><li>Composition or proportion</li><li>Distribution - both comparison and composition</li><li>Relationships and correlation - between variables</li></ul><p>Producers of data visualisations will make decisions about the best ways to display various types of data and communicate insights. All analysts and producers of visualisations (not just statisticians!)&nbsp;should follow <a href=\"https://gss.civilservice.gov.uk/policy-store/introduction-to-data-visualisation/\">Government Statistical Service (GSS)&nbsp;best practice guidelines</a>. Well-made graphs are clear, uncluttered and easy to understand.</p><p>All users of graphics, not just their creators,&nbsp;should be able to recognise&nbsp;misleading visualisations and pick out key messages.&nbsp;</p><p>&nbsp;</p>",
+    "_id": "6109474c4e98473e7dc5a327",
+    "_parentId": "6109473a4e98473e7dc5a326",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Recognising misleading visualisations",
+    "displayTitle": "Recognising misleading visualisations",
+    "body": "<p>The data behind visualisations being fabricated is not the only way that they can be misleading. Producers may (intentionally or unintentionally) draw attention to certain elements or perpetuate their own biases. It is important to think critically when using data visualisations.&nbsp;</p><p>Below are some examples of misleading graphics, and how they could have been more objective.&nbsp;</p><p>&nbsp;</p>",
+    "_id": "610a6aa94e98473e7dc5a342",
+    "_parentId": "610a6a9b4e98473e7dc5a341",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "beforeafter",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Axes & scales",
+    "displayTitle": "Axes & scales",
+    "body": "",
+    "_id": "610bb1094e98473e7dc5a34f",
+    "_parentId": "610a6b924e98473e7dc5a343",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Drag the slider to compare graphs",
+    "_beforeafter": {
+      "before": "course/en/assets/35484b718209822b01664991031cba11ca811ff1.png",
+      "altbefore": "Misleading graph",
+      "after": "course/en/assets/9621c16213b4aed03130079b7c3ac74ba6bca5ee.png",
+      "alt": "",
+      "attribution": "Fictitious data used"
+    },
+    "bottomText": "<p>In the first graph, the y-axis starts at 50%. As a result, the differences between bars are exaggerated, giving a false impression of the data. For example, the employment rate in Scotland appears around half that of England when actually there is only a 17 percentage point difference. This difference is much more evident in the second graph.</p><p>With bar graphs, not starting the axes at 0 disrupts the scale. This is one way that visualisations may be misleading despite displaying true values.&nbsp;</p>"
+  },
+  {
+    "_component": "beforeafter",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "3D charts",
+    "displayTitle": "3D charts",
+    "body": "",
+    "_id": "610bb8034e98473e7dc5a353",
+    "_parentId": "610bb7f94e98473e7dc5a352",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Drag the slider to compare the pie charts.",
+    "_beforeafter": {
+      "before": "course/en/assets/5f7f44aadca3fdf4a0b183b0ec53f9c9979980e7.png",
+      "altbefore": "misleading pie chart",
+      "after": "course/en/assets/719faea5834ed1cb04b993aed9bc57d3aa2e02bf.png",
+      "alt": "pie chart",
+      "attribution": "Fictitious data used "
+    },
+    "bottomText": "<p>The 3D nature of the first chart distorts the proportions of colours. In the first chart, it appears as though blue is more popular than red. However, looking at the 2D chart, with data labels, you can see that red was actually marginally more popular than blue, although the difference was small.</p><p>3D graphs leading to misleading interpretations also applies to 3D bar charts.&nbsp;</p>"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "component_container",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Figure 1",
+    "displayTitle": "",
+    "body": "",
+    "_id": "610bbcef4e98473e7dc5a35b",
+    "_parentId": "6107f5b24e98473e7dc5a2fa",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Figure 1",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f575f850a3875b3d66d96de283bfcbf098bcb955.svg",
+      "small": "course/en/assets/f575f850a3875b3d66d96de283bfcbf098bcb955.svg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Uncertainty",
+    "displayTitle": "Uncertainty",
+    "body": "<p>Much of analysis is producing estimations, which&nbsp;revolve&nbsp;around chance.&nbsp;We are&nbsp;never&nbsp;absolutely certain that our analysis is correct or represents the entire population, there is always some level of possible error. Likewise, decisions made in the data collection process may reduce the accuracy of our analysis.&nbsp;However, analysts will provide clarification of the level of uncertainty alongside outputs. The higher the quality of our sample and methods, the higher the chance that our analysis is an accurate representation of the population.&nbsp;</p><p>&nbsp;</p><p>Generally, analysts will not report their findings unless the uncertainty is low (which can be&nbsp;estimated with statistical tests), but there will always be some uncertainty. It is essential that when reporting on analytical findings, we also report on the associated estimated levels of uncertainty&nbsp;too.&nbsp;</p><p>&nbsp;</p><p>In an analytical output, analysts will provide a point estimate. This is a&nbsp;“best guess” for the value of some quantity. It will be a single figure and will usually have appropriate units, such as pounds. Sometimes you will only see the point estimate reported, but this point estimate will have respective measures of uncertainty. These include:</p>",
+    "_id": "610d486b4e98473e7dc5a417",
+    "_parentId": "610d485b4e98473e7dc5a416",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Statistical Significance",
+        "body": "<p>Statistical significance is generally measured with a p-value. This value signifies the possibility that the result of a statistical test or model is attributable simply to chance. The lower the p-value, the more likely the result is statistically significant. While there may be some differences by discipline or type of analysis, the threshold for p-value is usually 0.05 (p-values can fall between 0 and 1). If the p-value is below this threshold, it is referred to as statistically significant.</p><p>&nbsp;</p><p>It is important to note however, that a result being statistically significant only indicates that the variables are correlated. It does not provide any evidence that one variable has caused the result of the other, or provide any indication of how strong the relationship is.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Confidence Intervals",
+        "body": "<p>Alongside p-value, figures you will often see reported in analytical outputs include confidence intervals and confidence levels. Confidence intervals are a range of values that the true value of the population is likely to fall between. Confidence levels meanwhile are the probability that the true value will fall within that window.</p><p>&nbsp;</p><p>Overall, the higher the confidence level, the narrower the confidence intervals will be when compared to lower confidence levels on the same analysis.</p><p>&nbsp;</p><p>A good way of communicating confidence intervals is using data visualisations and graphs, where shaded areas are used to display confidence intervals (Figure 1 below as an example).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "An Example",
+        "body": "<p>To follow on from the prior example, the COVID-19 Infection Survey publishes weekly estimates of the number of people testing positive. In the week ending <a href=\"https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/15october2021\">9th October 2021</a>, they estimated:&nbsp;</p><p>\"890,000 people in England had COVID-19 (95% credible interval: 839,700 to 941,300)\"</p><p>In this example:&nbsp;</p><ul><li>The confidence level is 95%</li><li>The confidence interval is 839,700 to 941,300</li><li>The p-value is 0.05 (inverse of 95%)</li><li>The point estimate is 890,000</li></ul><p>This estimate is saying there is a 95% chance that the true number of people who had COVID-19&nbsp;was between 839,000 and 941,300 and that their best guess of the true number is 890,000.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "beforeafter",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Cherry-picking",
+    "displayTitle": "Cherry-picking",
+    "body": "<p>Cherry-picking is where the data included in a graphic only tells part of the story. In some cases, creators may choose to only include data that portrays the message they want to perpetuate and omit part of the data that disagrees. It may also simply be a case that the data needs an accompanying description to explain the full picture.&nbsp;</p><p>&nbsp;</p><p>To illustrate an example, this practice is common in politics or political debate. For example, the opposition may highlight and draw attention to particular months of low unemployment to critique the government's economic or welfare policy, while the governing party may choose to focus on prosperous months. Although they may draw data from the same source, it can tell a different story.</p><p>&nbsp;</p><p>Rather than fabricating any data, people may only select evidence that confirms their own biases or messages they want to tell.&nbsp;</p>",
+    "_id": "611297e04e98473e7dc5a491",
+    "_parentId": "611297dd4e98473e7dc5a490",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Drag the slider to compare graphs",
+    "_beforeafter": {
+      "before": "course/en/assets/e8bcc9861ef50e20e61776c5761b19e3ed24afe5.png",
+      "altbefore": "",
+      "after": "course/en/assets/ad36a765ea5ff0b9d705493ee1a671c0987bd492.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "bottomText": "<p>In this example, alternate months have been omitted from the first line graph. This gives the impression that the data is relatively stable over time. In addition, some of the lowest months have not been included which makes the measure appear better performing and more stable over time.&nbsp;</p><p>&nbsp;</p><p>Cherry-picking is much harder to spot than some of the other types of misleading visualisations we have covered as it impossible to know just by looking at a graph whether data has been excluded. Instead, we can ensure data sources are of high quality, from reliable sources and consider multiple sources of evidence to draw a final conclusion.</p>"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Providing context",
+    "displayTitle": "Providing context",
+    "body": "<p>One of the key parts of any analytical output is the context of the analysis. As well as a solid background into the work that has been done such as the motivation behind the current project, or details of any previous work on similar concepts, the following features (and acknowledgement of caveats) should be included:</p><ul><li>The quality of the statistics</li><li>Uncertainty values of the figures presented and any impact they have on interpretation, accuracy, or reliability</li><li>The direction and size/magnitude of any change from the last set of results</li><li>Long-term trends</li></ul>",
+    "_id": "61166ad84e98473e7dc5a4f5",
+    "_parentId": "61166ac04e98473e7dc5a4f4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Interpretation",
+    "displayTitle": "Interpretation",
+    "body": "<p>Analytical outputs are as reliable as the data used to produce them. As a result, any predictions or forecasts inevitably have a level of uncertainty around them that should be made obvious in communications. These include highlighting limitations and emphasising that these are estimates not fact, essential to preventing incorrect interpretations of results.</p><p>There is very little that can be done to control how information produced is used, but it is the responsibility of the team producing and sharing the analysis to try to support the interpretation of results and minimise misunderstanding. To do so, the following concepts help:</p><ul><li>Be honest and transparent about where evidence comes from and its limitations</li><li>Convey the range of possible outcomes</li><li>Consider a range of evidence from multiple sources to reduce possibility of bias<ul style=\"list-style-type:circle\"><li>Consider all evidence equally, rather than giving priority to that which agrees with your presumptions (also known as confirmation bias)</li></ul></li><li>Explain how the level of uncertainty should affect the interpretation of the results</li><li>Explain what can and cannot be concluded from the findings</li><li>Attempt to pre-empt misunderstanding or overinterpretation</li></ul>",
+    "_id": "61166d194e98473e7dc5a4f7",
+    "_parentId": "61166d114e98473e7dc5a4f6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 1,
+    "_disableAccessibilityState": false,
+    "title": "Quality and reliability",
+    "displayTitle": "Quality and reliability",
+    "body": "<p>Given the importance of quality throughout an analytical project, as highlighted in the earlier section, effort should be made to include information about quality during any communication of final insight. The quality of data, statistics and code underpins the insight – poor quality in any of these areas reduces the quality and accuracy of the final results.</p><p>If however, all work has been quality assured, all methods approved and rigorously documented. Providing evidence of this is an excellent way to increase the impact of results, build trust in the insights generated and help prevent organisational reputation damage.</p><p>Quality should always be discussed in final reports and can also be included in a separate, detailed document called a Background Quality Report (BQR) which helps users to understand the strengths and limitations, particularly for technical experts use.</p><p>Furthermore, it is essential to ensure a wide range of evidence, both of analysis type and of source, are included. If not, a biased or low-quality source may result in an incorrect conclusion and weakening of the evidence base.</p>",
+    "_id": "611676094e98473e7dc5a4f9",
+    "_parentId": "611676054e98473e7dc5a4f8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Sharing insight",
+    "displayTitle": "Sharing insight",
+    "body": "<p>While releases on government websites are useful and have a broad reach, many users access analytical outputs through other channels such as social media or press releases. Often social media channels will be controlled by central press offices, and appropriate sign-off will be required to ensure that what is put for communication across social media accurately reflects the story of the analysis.</p><p>Twitter is a commonly used social media platform for communicating analysis and departments often have their own twitter feed to inform of newly released publications. As twitter posts need to be short, providing detailed information is not possible. However, the phrasing and graphics should be tailored to the message at hand, with links to the full release. Using words such as “estimates” will help convey uncertainty in the results and discourage the readers from assuming the analysis is absolute truth.</p>",
+    "_id": "611a3a124e98473e7dc5a51f",
+    "_parentId": "611a1c9b4e98473e7dc5a511",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "component_container",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 1,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "611a494a4e98473e7dc5a528",
+    "_parentId": "611a1c9b4e98473e7dc5a511",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c33fb2a09ddde87b3886dade305112a55e1bcedf.svg",
+      "small": "course/en/assets/c33fb2a09ddde87b3886dade305112a55e1bcedf.svg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "611a5d654e98473e7dc5a540",
+    "_parentId": "611a5d554e98473e7dc5a53f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next Section",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "611b66674e98473e7dc5a558",
+    "_parentId": "611b664e4e98473e7dc5a557",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next Section",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "611b68144e98473e7dc5a55a",
+    "_parentId": "611b680f4e98473e7dc5a559",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next Section",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "nav-col",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "611bb1b94e98473e7dc5a55c",
+    "_parentId": "611bb1974e98473e7dc5a55b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next Section",
+        "ariaLabel": "Next Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reproducible Analytical Pipelines",
+    "displayTitle": "",
+    "body": "<p>Using modern programming tools such as R and Python, automated pipelines can be created which are fully tested, robust, and require far less manual work. These pipelines take raw data, complete all analysis required, produce output visualisations, and can even generate the final report. As the code is used multiple times, a level of trust can be built in the process over time - a full set of tests on the code created when the pipeline was first run assures the continuing validity of the process.</p><p>Converting existing work to Reproducible Analytical Pipelines, or RAP, is a time-consuming, skilled task, but there is a network of <a href=\"https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/\">RAP champions</a> across government who can assist with anyone wishing to develop their own pipelines. And while the time to develop the pipeline is substantial in the short-term, the long-term benefits once in production on time saved, and errors minimised, is huge.&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+    "_id": "611bd1694e98473e7dc5a565",
+    "_parentId": "611bd1574e98473e7dc5a564",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "611cb9f14e98473e7dc5a586",
+    "_parentId": "611cb9e94e98473e7dc5a585",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next Section",
+        "ariaLabel": "Next Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Nav Bar",
+    "displayTitle": "",
+    "body": "",
+    "_id": "611cbaa34e98473e7dc5a588",
+    "_parentId": "611cba9a4e98473e7dc5a587",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next Section",
+        "ariaLabel": "Next Page",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{displayTitle}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": true,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": true,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Thank you for taking this pilot course.&nbsp;</p><p>You should now have a better understanding of how to request, interpret and utilise analytical outputs.&nbsp;</p><p>In this course we have covered:&nbsp;</p><ul><li>The Analysis Function</li><li>How analytical projects are designed</li><li>An overview of some key methodological techniques</li><li>Quality of statistics and data</li><li>Reproducible Analytical Pipelines</li><li>Recognising misleading visualisations</li></ul><p>If you are interested in further developing your analytical knowledge, take a look at the <a href=\"https://www.gov.uk/guidance/af-learning-curriculum-technical\">Analysis Function Learning Curriculum</a>.</p><p>For any queries or comments about this resource, please contact the <a href=\"mailto:analysis.function@ons.gov.uk?subject=Analysis%20101\">Analysis Function Team</a>.</p>",
+    "_id": "6131d17c4e98473e7dc5a82f",
+    "_parentId": "6131d14b4e98473e7dc5a82e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphicwithlink",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61386b144e98473e7dc5a83b",
+    "_parentId": "610945b94e98473e7dc5a322",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click to open enlarged image in a new tab",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/90152f1fc037b5f0df3d5eb4e53349868878603d.png",
+      "small": "course/en/assets/90152f1fc037b5f0df3d5eb4e53349868878603d.png",
+      "attribution": "",
+      "url": "https://analysis-function-learning.github.io/analysis_101/course/en/assets/90152f1fc037b5f0df3d5eb4e53349868878603d.png"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "More Resources",
+    "displayTitle": "More Resources",
+    "body": "<p>Civil Service Learning offer a <a href=\"https://learn.civilservice.gov.uk/courses/90FhDB3EQDClz503PxOqxg\">Quality of Evidence, Uncertainty and Risk</a>&nbsp;(note: this website is in beta testing, if experiencing any difficulties accessing via this link, please log in first and try again)</p>",
+    "_id": "6151b67a4e98473e7dc5a8a2",
+    "_parentId": "6151b66d4e98473e7dc5a8a1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Glossary",
+    "displayTitle": "Glossary",
+    "body": "<p>To sum up, here are a few of the key definitions for concepts covered in this module:<strong> </strong></p><p><strong>Absolute Risk</strong></p><p>The chance/probability of a given event happening, often in percentage form.&nbsp;</p><p><strong>Confidence Interval&nbsp;</strong></p><p>Confidence intervals are a range of values that the true value of the population is likely to fall between.</p><p><strong>Confidence Level</strong></p><p>A confidence level is the probability that the true value will fall between the given confidence intervals.&nbsp;</p><p><strong>Machine Learning</strong></p><p>Machine learning is an analytical process where existing data (also called training data) is used to 'learn'&nbsp;about an existing phenomena and produce a model that can make predictions.</p><p><strong>Relative Risk&nbsp;</strong></p><p>The likelihood of a given event occurring, in relation to another event, rather than the probability of it occurring overall.&nbsp;</p><p><strong>Statistical Significance</strong></p><p>A statistically significant result is one unlikely to have occurred due to chance and is therefore likely to represent the true figure in the population.&nbsp;</p><p>The next section of this course will quiz your understanding of this module.&nbsp;</p>",
+    "_id": "6164096d4e98473e7dc5a926",
+    "_parentId": "616409604e98473e7dc5a925",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Types of Analyst",
+    "displayTitle": "Types of Analyst",
+    "body": "<p>Some of the groups of analysts in the Analysis Function are members of a profession. There are 28&nbsp;<a href=\"https://www.gov.uk/government/organisations/civil-service/about#professions\">professions </a>in the civil service, aiming to bring together similar roles situated in different departments to maintain high standards but also encourage career development.&nbsp;However, not every analyst is part of one of these professions, such as a Data Analyst role. Different types of analysts will produce different forms of analysis, and be able to support you in different ways.&nbsp;</p><p>Expand each section below to learn more about some of the different types of government analysts and the work they do. As the Analysis Function encompasses anyone who performs analysis, there are more roles beyond these which are part of the Function too.&nbsp;</p>",
+    "_id": "616410e14e98473e7dc5a928",
+    "_parentId": "616410da4e98473e7dc5a927",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data Analyst",
+        "body": "<p>Data Analysts collect, organise and study data to provide business insight. Working across a broad range of areas, Data Analysts understand, manipulate and accurately analyse data, providing insight, briefing internal and external audiences in ways that make the complex easy to understand, particularly for non-specialist audiences. They are not connected to a specific Government profession.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data Scientists",
+        "body": "<p>Data Scientists in government combine statistical methods with computing techniques to use a wide range of data sources to gain deep insights and address complex business problems. A data science team uses a blend of techniques to work with large data, often combining multiple datasets, to gain new, innovative and real-time insights. This enables data science teams to help the organisation understand not just what has happened but why, and what may happen in the future. Data Scientists use their insights to support evidence-based policy making. Government Data Scientists can align to both the <a href=\"https://www.gov.uk/government/organisations/government-analysis-function?cachebust=1578916468\">Government Analysis Function</a> and the <a href=\"https://www.gov.uk/government/organisations/digital-data-and-technology-profession\">Digital, Data and Technology profession</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Economist ",
+        "body": "<p>There are multiple analyst roles that sit under the <a href=\"https://www.gov.uk/government/organisations/civil-service-government-economic-service\">Government Economic Service</a>, all part of the Analysis Function.&nbsp;</p><p>A key role of any economic analyst in government is to provide evidence and projections of expected outcomes (and/or losses) from various policy proposals. Typically, evidence will include cost benefit analysis, impact assessments, policy appraisal, forecasting and other statistical analysis.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Social Researcher",
+        "body": "<p>The <a href=\"https://www.gov.uk/government/organisations/civil-service-government-social-research-profession\">Government Social Research profession</a>&nbsp;provide tailored and robust social research insight, advice and evidence. This allows decision makers to understand systems, processes and change associated with people, groups, organisations and society (their attitudes, perceptions, behaviours &amp; intentions) to inform and improve the quality of strategy, policy and delivery decision-making. They provide&nbsp;expertise in applied qualitative and quantitative design and analysis approaches, evaluation, behavioural science and interventions to solve complex problems to ensure decision-making is robust and defensible; providing an understanding of ‘what works, for whom, to what extent, in what contexts, how and why/why not?’</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Actuaries",
+        "body": "<p>Actuaries mainly sit within the <a href=\"https://www.gov.uk/government/organisations/government-actuarys-department\">Government Actuary Department</a>. They provide analysis, prediction and commentary on complex financial problems involving risk and uncertainty to solve financial challenges faced by the UK public sector.&nbsp;They also use their analysis to advise on effective strategies to manage future risks. For example, assessing the costs of the public service pension schemes and modelling the cashflows of the books of student loans sold to the private sector</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Operational Researchers",
+        "body": "<p>Operational Researchers sit within the <a href=\"http://www.operational-research.gov.uk/recruitment/what_is_or\">Government Operational Research Service</a>. They combine knowledge of statistics, data science and mathematics with consultancy skills, stakeholder engagement and consensus building. This allows them to define, model and solve complex real-world problems.&nbsp;</p><p>Analysts offer rigorous, objective and practical analytical support to decision makers before matters become a problem.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Statisticians",
+        "body": "<p>In government, statisticians sit within the <a href=\"https://gss.civilservice.gov.uk/careers/the-gss-government-professions-and-analysis-function/\">Government Statistical Service</a>&nbsp;(GSS) and generally work in the collection, production and communication of official statistics. They are spread across a whole range of public bodies, including the devolved administrations and UK government departments that produce and analyse statistics.&nbsp;</p><p>The GSS is made up of statisticians, data scientists, researchers, economists, policy experts, business support teams, data journalists, data visualisation experts, methodologists, media experts etc.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Geographers",
+        "body": "<p>Geographic Analysts, Geographic Advisors and Geospatial Specialists are some of the roles of the <a href=\"https://www.gov.uk/government/organisations/government-geography-profession/about\">Government Geography Profession</a>.&nbsp;</p><p>They collect, collate, manage and link administrative data by geographic reference to enable the analysis of variabilities of government activity on populations as a result of the pre-existing distributions of resources. Government Geographers integrate geographic data within wider analytical work and apply different specialist techniques to account for the geographic dimensions of the data. They communicate analysis effectively, using visualisations.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Regression: Case Study",
+    "displayTitle": "",
+    "body": "<p>The Food Standards Agency (FSA) have used analytical techniques, including regression, to predict outbreaks of norovirus before they happen.&nbsp;</p><p>First of all, they collected tweets that contained words or phrases that were consistent with symptoms of norovirus and excluded words that suggested the symptoms had been caused from other reasons such as \"pregnancy\" or \"hangover\".</p><p>Regression analysis was then conducted using this data, where changes in the frequency of tweets containing these words or phrases were used to predict a rise in cases. This would then trigger advertising campaigns about symptoms, how to reduce the spread and notify NHS teams that a spike may be imminent.&nbsp;</p><p>The costs of producing this model were relatively low, it required only one analyst's time to maintain. This means that the model only needed to prevent 500 cases (around 0.2% of the annual average) to provide value for money.&nbsp;</p>",
+    "_id": "616574d04e98473e7dc5a92d",
+    "_parentId": "616574bb4e98473e7dc5a92c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Linkage: Case Study",
+    "displayTitle": "",
+    "body": "<p>One example of where data linkage has been used to produce valuable research was a project between the Office for National Statistics (ONS) and the Department of Education (DfE). An evidence gap was identified for researching the impact of personal circumstances on outcomes, particularly for vulnerable children.&nbsp;</p><p>To fill this gap, ONS and DfE will create a 'Growing up in England' (GUIE) dataset using information from Census records and attainment data from schools. <a href=\"https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/methodologies/educationalattainmentandhouseholdcompositionfeasibilityresearchandmethodology\">Initial linkage</a> has had a 90% linkage rate (rate that observations from DfE data were linked to Census records).&nbsp;</p><p>This linked data can be used in research that investigates the impact of circumstances in early life or demographics on educational outcomes. As a result the analysis could be used, for example,&nbsp;to inform evidence-based policy making or evaluate the impact of policies targeted at improving outcomes for disadvantaged children.&nbsp;</p>",
+    "_id": "616690004e98473e7dc5a92f",
+    "_parentId": "61668fed4e98473e7dc5a92e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Relative vs. Absolute Risk ",
+    "displayTitle": "Relative vs. Absolute Risk ",
+    "body": "<p>Some types of analytical outputs, including some forms of regression, give&nbsp;results in the form of \"relative risk\"; the likelihood of an event occurring relative to another event, rather than the likelihood of an event occurring overall (also called absolute risk). The problem is, relative risks can exaggerate the effect size.&nbsp;A little confusing, but lets put an example to the definition.&nbsp;</p><p>A medical trial report may find that a certain drug reduces the risk of high blood pressure by 20%. However, if the absolute risk of having high blood pressure was 2% (or every 20 in 1000 people), then the drug only reduces the risk to 1.6% (16 in 1000 people). It has prevented high blood pressure for every 4 in 1000, which seems a bit smaller than reducing the risk by 20%. Chances are, the medical trial will use the relative risk to report the effectiveness of the drug, to exaggerate it's impact.&nbsp;Meanwhile using the absolute risk to report the likelihood of side effects, to make them appear smaller.&nbsp;</p><p>The same evidence, or analytical outputs, can be reported in either relative or absolute terms, depending on the picture the reporter wants to portray.&nbsp;</p>",
+    "_id": "61697b944e98473e7dc5a934",
+    "_parentId": "61697b864e98473e7dc5a933",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Relative vs absolute risk",
+    "displayTitle": "",
+    "body": "<p>Is the following a relative or absolute risk?&nbsp;</p><p>Children who eat fast food once a week are twice as likely to develop Type 2 diabetes in adulthood.&nbsp;</p>",
+    "_id": "616988284e98473e7dc5a935",
+    "_parentId": "6166b2f34e98473e7dc5a932",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Relative Risk",
+        "_shouldBeSelected": true,
+        "feedback": "<p>The statement provides the risk in relation to those who do not eat fast food. A relative risk is the chance of a given event occurring in relation to another event.&nbsp;An absolute risk would be:&nbsp;Children who eat fast food once a week have a 26% chance of developing type 2 diabetes in adulthood, while children who do not have a 13% chance.&nbsp;</p>"
+      },
+      {
+        "text": "Absolute Risk",
+        "_shouldBeSelected": false,
+        "feedback": "<p>The statement provides the risk in relation to those who do not eat fast food. A relative risk is the chance of a given event occurring in relation to another event.&nbsp;An absolute risk would be:&nbsp;Children who eat fast food once a week have a 26% chance of developing type 2 diabetes in adulthood, while children who do not have a 13% chance.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct. The statement provides the risk in relation to those who do not eat fast food. An absolute risk would be:&nbsp;Children who eat fast food once a week have a 26% chance of developing type 2 diabetes in adulthood, while children who do not have a 13% chance.&nbsp;</p><p>&nbsp;</p><p>Note: Statistics used are fictional&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect. The statement provides the risk in relation to those who do not eat fast food. An absolute risk would be:&nbsp;Children who eat fast food once a week have a 26% chance of developing type 2 diabetes in adulthood, while children who do not have a 13% chance.&nbsp;</p>",
+        "notFinal": "<p>Incorrect. The statement provides the risk in relation to those who do not eat fast food. An absolute risk would be:&nbsp;Children who eat fast food once a week have a 26% chance of developing type 2 diabetes in adulthood, while children who do not have a 13% chance.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Incorrect. The statement provides the risk in relation to those who do not eat fast food. An absolute risk would be:&nbsp;Children who eat fast food once a week have a 26% chance of developing type 2 diabetes in adulthood, while children who do not have a 13% chance.&nbsp;</p>",
+        "notFinal": "<p>Incorrect. The statement provides the risk in relation to those who do not eat fast food. An absolute risk would be:&nbsp;Children who eat fast food once a week have a 26% chance of developing type 2 diabetes in adulthood, while children who do not have a 13% chance.&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Weighting ",
+    "displayTitle": "",
+    "body": "<p>Which of the below statements are correct?&nbsp;</p>",
+    "_id": "61698dcd4e98473e7dc5a937",
+    "_parentId": "61698dc74e98473e7dc5a936",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all applicable answers",
+    "_items": [
+      {
+        "text": "Weighting can correct for over or under representation of a group in a survey.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Weighting can help represent the views of those less likely to respond",
+        "_shouldBeSelected": true,
+        "feedback": "<p>This does however depend on some of the group responding. Weighting cannot create answers if an entire group is missed in data collection.&nbsp;</p>"
+      },
+      {
+        "text": "Weighting might be used to correct proportions of groups from different ethnicities",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Ethnicity is one of the common demographic characteristics used to create survey weights.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct, all three answers are correct.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect, all three answers are correct.</p>",
+        "notFinal": "<p>Incorrect, all three answers are correct.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Incorrect, all three answers are correct.</p>",
+        "notFinal": "<p>Incorrect, all three answers are correct.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Confidence Intervals",
+    "displayTitle": "",
+    "body": "<p>Which is the correct definition for a confidence interval?</p>",
+    "_id": "616d642e4e98473e7dc5a939",
+    "_parentId": "616d64274e98473e7dc5a938",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "The probability that the true value will fall within that window.",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. That is the definition for confidence <strong>level</strong>, not confidence interval.&nbsp;</p>"
+      },
+      {
+        "text": "A range of values that the true value of the population is likely to fall between",
+        "_shouldBeSelected": true,
+        "feedback": "<p>That is the correct definition</p>"
+      },
+      {
+        "text": "The possibility that the result of a statistical test or model is attributable simply to chance",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. That is the definition of statistical significance.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct. The definition of a confidence interval is:&nbsp;A range of values that the true value of the population is likely to fall between.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect. The definition of a confidence interval is:&nbsp;A range of values that the true value of the population is likely to fall between.</p>",
+        "notFinal": "<p>Incorrect. The definition of a confidence interval is:&nbsp;A range of values that the true value of the population is likely to fall between.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Incorrect. The definition of a confidence interval is:&nbsp;A range of values that the true value of the population is likely to fall between.</p>",
+        "notFinal": "<p>Incorrect. The definition of a confidence interval is:&nbsp;A range of values that the true value of the population is likely to fall between.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Science",
+    "displayTitle": "Data Science",
+    "body": "<p>Data Science is an inter-disciplinary field, bringing together mathematics, coding skills and making the most of new innovative data tools. The <a href=\"https://datasciencecampus.ons.gov.uk/about-us/\">Data Science Campus</a>&nbsp;(DSC) was set up in 2017, within the Office for National Statistics,&nbsp;to explore new technologies and share knowledge across government.</p><p>Data Scientists in various departments use multidisciplinary skills to produce credible evidence-based research to support policy making and research. As a fast-evolving field, they also need to continually be developing their own abilities as new methods and technological advancements widen the possibilities of Data Science.&nbsp;</p><p>A substantial area of Data Science is machine learning; the practice of creating a model that uses 'training data' to learn about relationships, and therefore make predictions in the future. One example of a project using this comes from the DSC:</p><p>A gap in data providing energy efficiency ratings was identified in a large portion of Welsh households (53%). This makes it difficult to evaluate areas that need improvement in order to meet targets regarding climate change and emissions.&nbsp;</p><p>However, the DSC were able to use pre-existing data (a training set) to produce a model that can predict the energy rating for a household missing this data using information including the age of the house,&nbsp;it's size etc. This saves huge amounts of time and money in comparison to an expert completing a full survey on each of these households. This evidence will allow Welsh Government policy to be well-informed and understand the areas in need of development in order to meet net-zero targets.&nbsp;</p><p>You can read more about this project&nbsp;in the <a href=\"https://datasciencecampus.ons.gov.uk/projects/using-machine-learning-to-predict-energy-efficiency/\">DSC report</a>.&nbsp;</p>",
+    "_id": "617aa5b84e98473e7dc5a942",
+    "_parentId": "617aa5a94e98473e7dc5a941",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>The below graph is an example where a graphic can be unintentionally misleading. Looking at this line graph, it appears as though daily positive cases in the first lockdown (April 2020) were significantly lower than in the second lockdown (November 2020). However, this is unlikely to be the case. While no data has been fabricated or left out, testing capacity (number of tests daily for COVID-19 that could be carried out) was significantly increased. At the end of April, the UK carried out around 30,000 tests a day, but by November this had increased to around 300,000 tests per day [<a href=\"https://coronavirus.data.gov.uk/details/testing?areaType=overview&amp;areaName=United%20Kingdom\">source</a>]. This means it is very likely that there was actually a much higher rate of positive cases in April, but there were not enough COVID-19 tests available to detect them all (note: testing is unlikely to be the sole reason for this difference, but is a main one).</p><p>While the data has not been fabricated, it also does not reflect the whole picture of positive cases. Ultimately, this means that this visualisation cannot solely be used to compare differences in the number of positive COVID-19 cases, additional information is required.&nbsp;</p><p>&nbsp;</p>",
+    "_id": "617fef3f4e98473e7dc5a948",
+    "_parentId": "617fef274e98473e7dc5a947",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Covid-19 positive results between 09/03/20 and 03/01/21",
+      "large": "course/en/assets/6e478776df7431ec8b65007c6c10a5920d53e6cb.png",
+      "small": "course/en/assets/6e478776df7431ec8b65007c6c10a5920d53e6cb.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Sampling",
+    "displayTitle": "",
+    "body": "<p>The quality of a sample can be affected by...</p>",
+    "_id": "618100fa4e98473e7dc5a96d",
+    "_parentId": "618100f04e98473e7dc5a96c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select all applicable answers",
+    "_items": [
+      {
+        "text": "Time of year",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect.&nbsp;</p>"
+      },
+      {
+        "text": "The sampling frame",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct. Sampling frames provide information of all possible participants, if the sampling frame is inaccurate or of low quality, this will impact the quality of the sample too.&nbsp;</p>"
+      },
+      {
+        "text": "The size of the sample",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct. A larger sample increases the probability that all groups/views will be represented.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct.</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect. Two of the answers were correct:&nbsp;</p><ul><li>The sampling frame</li><li>The size of the sample</li></ul>",
+        "notFinal": "<p>Incorrect. Two of the answers were correct:&nbsp;</p><ul><li>The sampling frame</li><li>The size of the sample</li></ul>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Incorrect. Two of the answers were correct:&nbsp;</p><ul><li>The sampling frame</li><li>The size of the sample</li></ul>",
+        "notFinal": "<p>Incorrect. Two of the answers were correct:&nbsp;</p><ul><li>The sampling frame</li><li>The size of the sample</li></ul>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Linkage",
+    "displayTitle": "",
+    "body": "<p>What is the following a definition of?</p><p>\"a methodological process whereby an individual's records from multiple data sources are connected\"</p>",
+    "_id": "61810e174e98473e7dc5a96f",
+    "_parentId": "61810e114e98473e7dc5a96e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Data Collation",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect.</p>"
+      },
+      {
+        "text": "Data Linkage",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct.</p>"
+      },
+      {
+        "text": "Data Grouping",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Data Linkage is&nbsp;\"a methodological process whereby an individual's records from multiple data sources are connected\"</p>",
+      "_incorrect": {
+        "final": "<p>Data Linkage is&nbsp;\"a methodological process whereby an individual's records from multiple data sources are connected\"</p>",
+        "notFinal": "<p>Data Linkage is&nbsp;\"a methodological process whereby an individual's records from multiple data sources are connected\"</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Data Linkage is&nbsp;\"a methodological process whereby an individual's records from multiple data sources are connected\"</p>",
+        "notFinal": "<p>Data Linkage is&nbsp;\"a methodological process whereby an individual's records from multiple data sources are connected\"</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "responsiveIframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Feedback",
+    "displayTitle": "Feedback",
+    "body": "<p><strong>Please provide anonymous feedback for the pilot either below or <a href=\"https://www.smartsurvey.co.uk/s/analysis_101_postcourse_genfs/\" target=\"_blank\">in a new tab</a>.</strong></p><p><strong>For any questions, or if you would like a response to your feedback or query, please contact <a href=\"mailto:katherine.bruce@ons.gov.uk?subject=Analysis%20101%20Feedback\">Katherine Bruce</a>.</strong></p>",
+    "_id": "6193ad964e98473e7dc5aaa7",
+    "_parentId": "6193ad8d4e98473e7dc5aaa6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_source": "https://www.smartsurvey.co.uk/s/analysis_101_postcourse_genfs/",
+    "_scrolling": "yes",
+    "_width": {
+      "_small": 400,
+      "_medium": 900,
+      "_large": 900
+    },
+    "_height": {
+      "_small": 400,
+      "_medium": 1200,
+      "_large": 1200
+    }
+  },
+  {
+    "_component": "pageNav",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Nav Bar",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61d6beba4e98473e7dc5aea2",
+    "_parentId": "61d6bea64e98473e7dc5aea1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_loopStyle": "none",
+    "_buttons": {
+      "_returnToPreviousLocation": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Return",
+        "ariaLabel": "Return to previous location",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}"
+      },
+      "_previous": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Previous",
+        "ariaLabel": "Previous Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_root": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to Menu",
+        "ariaLabel": "Go to main menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_up": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Back to menu",
+        "ariaLabel": "Back to menu",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_next": {
+        "_isEnabled": true,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": true,
+        "text": "Next Section",
+        "ariaLabel": "Next Page",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_sibling": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "{{inc index}}",
+        "ariaLabel": "Page {{inc index}}",
+        "_showTooltip": false,
+        "tooltip": "{{displayTitle}}",
+        "_customRouteId": ""
+      },
+      "_close": {
+        "_isEnabled": false,
+        "_lockUntilPageComplete": false,
+        "_order": 0,
+        "_classes": "",
+        "_iconClass": "",
+        "_alignIconRight": false,
+        "text": "Close",
+        "ariaLabel": "Close window",
+        "_showTooltip": false,
+        "tooltip": "Close window"
+      }
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Designing the analysis ",
+    "displayTitle": "Designing the analysis ",
+    "body": "<p>The design stage is essential to ensure that any work undertaken is suitable for the question being considered.&nbsp;</p><p>The analysis should:</p><ul><li>be able to answer the question</li><li>be proportionate to the question being asked</li><li>represent good value for money</li></ul><p>Both analysts and subject matter experts should be engaged during this stage to structure the problem clearly, and agree objectives, resources, skills and a timeline as much as is possible. The analytical lifecycle allows for iteration and refinement, so the intital design should not be considered to be fixed, rather it should adjust to fit changing requirements.&nbsp;</p><p>Some key requirements of all analytical work that should be considered during the design stage are that the work is:&nbsp;</p>",
+    "_id": "61d80d444e98473e7dc5aefe",
+    "_parentId": "61d80d224e98473e7dc5aefd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Repeatable",
+        "body": "<p>If a different analyst performs the analysis with the same inputs, the same results should be produced.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Independent of bias",
+        "body": "<p>Data should be considered carefully to avoid collection bias, and the analysts personal bias should not play a part in the results.&nbsp;</p><p>This includes consulting a wide range of sources to reduce the chance of \"confirmation bias\", where only sources that agree with your presumptions are included.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Relevant to the question",
+        "body": "<p>The analysis performed should be within the scope of the task at hand.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Objective",
+        "body": "<p>The analysis performed and the results presented should be factual and impartial, they should not be influenced by personal opinion.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Robust enough to survive challenges",
+        "body": "<p>Both from other analysts within the Civil Service an members of the public who might view the analysis.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Regression: Case Study img",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61d817b24e98473e7dc5af07",
+    "_parentId": "616574bb4e98473e7dc5a92c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ec17941ecc3991c09344ecfbae0dfe3273add0dc.png",
+      "small": "course/en/assets/ec17941ecc3991c09344ecfbae0dfe3273add0dc.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Time Series",
+    "displayTitle": "Time Series",
+    "body": "<p>A time series is a set of time-ordered data, usually collected at regular intervals such as daily or monthly. In official statistics, one example of a time series would be the Consumer Prices Index (see graph below), a measure of inflation, which is collected monthly.&nbsp; With time series data, common analytical outputs may include analysis of trends, seasonal variation and forecasting. As a result, time series analysis can provide an insight into the effectiveness of government polices by evaluating changes over time.</p>",
+    "_id": "61dc03794e98473e7dc5af33",
+    "_parentId": "61dc035f4e98473e7dc5af32",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a55dda733cf9aab8b825e514ac8a8d610ab90fbf.png",
+      "small": "course/en/assets/a55dda733cf9aab8b825e514ac8a8d610ab90fbf.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "logos",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61dc092a4e98473e7dc5af39",
+    "_parentId": "61668fed4e98473e7dc5a92e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/43508e7c4aad38e5f710422c63495791602458ed.png",
+      "small": "course/en/assets/43508e7c4aad38e5f710422c63495791602458ed.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reproducible Analytical Pipelines",
+    "displayTitle": "Reproducible Analytical Pipelines",
+    "body": "<p>The production of analysis can be time-consuming and painstaking work. Often official statistics have a regular release schedule, which means that the analysis must be completed on a regular basis to provide both accurate and timely results.</p><p>Reproducibility is not found widely across government; a large amount of analysis involves using expensive tools such as SAS or SPSS to create process data, and then standard software such as Microsoft Word and Excel to draw conclusions and produce the analysis that is released publicly. These processes often require many manual stages, involving different analysts across a number of teams, where mistakes can easily appear. Parts of the analysis may be&nbsp;repeated by independent analysts to manually quality assure the outputs,&nbsp;and often large amounts of data are&nbsp;checked by hand to ensure they are&nbsp;feasible.&nbsp;</p><p>Any such labour intensive work is both time-consuming, and frustrating for the analyst, as the steps involved can be difficult to replicate exactly and quickly. Any manual stage of the process can lead to errors appearing in the data, which can trickle through to the final product.&nbsp;</p>",
+    "_id": "61e13c934e98473e7dc5b00d",
+    "_parentId": "61e13c854e98473e7dc5b00c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/878c5655e0be28f58e656cd45529db34c80f9037.svg",
+      "small": "course/en/assets/878c5655e0be28f58e656cd45529db34c80f9037.svg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Science",
+    "displayTitle": "",
+    "body": "<p>Fill in the blank:</p><p>Machine learning models use [blank] to make predictions.&nbsp;</p>",
+    "_id": "61e152ed4e98473e7dc5b027",
+    "_parentId": "61e152e34e98473e7dc5b026",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "training data",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct, training data is pre-existing data used to 'train' a model into predicting unknown values.</p>"
+      },
+      {
+        "text": "coaching data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "forming data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Training data is pre-existing data used to 'train' a model into predicting unknown values.</p>",
+      "_incorrect": {
+        "final": "<p>Training data is pre-existing data used to 'train' a model into predicting unknown values.</p>",
+        "notFinal": "<p>Training data is pre-existing data used to 'train' a model into predicting unknown values.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Training data is pre-existing data used to 'train' a model into predicting unknown values.</p>",
+        "notFinal": "<p>Training data is pre-existing data used to 'train' a model into predicting unknown values.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Statistical Significance ",
+    "displayTitle": "",
+    "body": "<p>A result is more likely to be statistically significant if the p-value is high (closer to 1) or low (closer to 0)?</p>",
+    "_id": "61e520654e98473e7dc5b052",
+    "_parentId": "61e5205c4e98473e7dc5b051",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "higher",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect.</p>"
+      },
+      {
+        "text": "lower",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct, a p-value closer to 0 means the result has a higher probability of being statistically significant.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>A p-value closer to 0 means the result has a higher probability of being statistically significant.</p>",
+      "_incorrect": {
+        "final": "<p>A p-value closer to 0 means the result has a higher probability of being statistically significant.</p>",
+        "notFinal": "<p>A p-value closer to 0 means the result has a higher probability of being statistically significant.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>A p-value closer to 0 means the result has a higher probability of being statistically significant.</p>",
+        "notFinal": "<p>A p-value closer to 0 means the result has a higher probability of being statistically significant.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61e529514e98473e7dc5b056",
+    "_parentId": "617aa5a94e98473e7dc5a941",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/78e95b5c468e9230a496fdd8683dea5ad034ba71.jpg",
+      "small": "course/en/assets/78e95b5c468e9230a496fdd8683dea5ad034ba71.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "More Resources",
+    "displayTitle": "More Resources",
+    "body": "<p><strong>Related resources for drawing and communicating insight:</strong></p><p><a href=\"https://gss.civilservice.gov.uk/policy-store/writing-about-statistics-2/\">Government Statistical Service's \"Writing about statistics\"</a></p><p><a href=\"http://gss.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change\">Government Statistical Service's \"Communicating quality, uncertainty and change\"</a></p><p><a href=\"https://www.gov.uk/government/publications/government-social-research-framework-for-assessing-research-evidence\">Government Social Research's \"Quality in Qualitative Evidence\"</a></p><p><a href=\"https://www.gov.uk/government/publications/urgent-data-quality-assurance-guidance/urgent-data-quality-assurance-guidance\">Government Analysis Function's \"Urgent data quality assurance guidance\"</a></p><p><a href=\"https://www.gov.uk/government/news/the-importance-of-communicating-data-quality\">Data Quality Hub's \"The importance of communicating data quality\"&nbsp;</a></p><p>&nbsp;</p>",
+    "_id": "61f108574e98473e7dc5b1df",
+    "_parentId": "61f108414e98473e7dc5b1de",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Head of the AF",
+    "displayTitle": "",
+    "body": "<p>Who is the Head of the Analysis Function (AF)?</p>",
+    "_id": "61f259e74e98473e7dc5b29e",
+    "_parentId": "61f259d34e98473e7dc5b29d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer. ",
+    "_items": [
+      {
+        "text": "Sir David Norgrove ",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Sir David Norgrove is Chair of the UK Statistics Authority.&nbsp;</p>"
+      },
+      {
+        "text": "Sir Ian Diamond",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Sir Ian Diamond is Head of the AF. He also holds other titles including the National Statistician and Head of the GSS.&nbsp;</p>"
+      },
+      {
+        "text": "Jenny Dibden",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Jenny Dibden is Head of the Government Social Research profession.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Sir Ian Diamond is Head of the AF. He also holds other titles including the National Statistician and Head of the GSS.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Sir Ian Diamond is Head of the AF. He also holds other titles including the National Statistician and Head of the GSS.&nbsp;</p>",
+        "notFinal": "<p>Sir Ian Diamond is Head of the AF. He also holds other titles including the National Statistician and Head of the GSS.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Sir Ian Diamond is Head of the AF. He also holds other titles including the National Statistician and Head of the GSS.&nbsp;</p>",
+        "notFinal": "<p>Sir Ian Diamond is Head of the AF. He also holds other titles including the National Statistician and Head of the GSS.&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "AF size",
+    "displayTitle": "",
+    "body": "<p>What is the approximate size of the AF?</p>",
+    "_id": "61f25e214e98473e7dc5b29f",
+    "_parentId": "61f259d34e98473e7dc5b29d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer. ",
+    "_items": [
+      {
+        "text": "1700 members",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect.</p>"
+      },
+      {
+        "text": "17,000 members",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct. There is an estimated 17,000 members of the AF across government.</p>"
+      },
+      {
+        "text": "170,000 members",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect.</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>There is an estimated 17,000 members of the AF across government.</p>",
+      "_incorrect": {
+        "final": "<p>There is an estimated 17,000 members of the AF across government.</p>",
+        "notFinal": "<p>There is an estimated 17,000 members of the AF across government.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>There is an estimated 17,000 members of the AF across government.</p>",
+        "notFinal": "<p>There is an estimated 17,000 members of the AF across government.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Analysis Lifecycle",
+    "displayTitle": "",
+    "body": "<p>Which of these should happen first, as per the Analysis Lifecycle?</p>",
+    "_id": "61f267304e98473e7dc5b2a1",
+    "_parentId": "61f267194e98473e7dc5b2a0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer.",
+    "_items": [
+      {
+        "text": "Designing the analysis",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. Designing the analysis comes second of these options.</p>"
+      },
+      {
+        "text": "Scoping the analysis ",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct.&nbsp;</p>"
+      },
+      {
+        "text": "Conducting the analysis",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect, this is should come third out of these options.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Of these options, scoping comes first. It is followed by designing and then conducting.</p>",
+      "_incorrect": {
+        "final": "<p>Of these options, scoping comes first. It is followed by designing and then conducting.</p>",
+        "notFinal": "<p>Of these options, scoping comes first. It is followed by designing and then conducting.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Of these options, scoping comes first. It is followed by designing and then conducting.</p>",
+        "notFinal": "<p>Of these options, scoping comes first. It is followed by designing and then conducting.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Consulting analysts",
+    "displayTitle": "",
+    "body": "<p>When should you consult with analysts?</p>",
+    "_id": "61f2681c4e98473e7dc5b2a3",
+    "_parentId": "61f268084e98473e7dc5b2a2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "After designing the analysis, to get designs approved",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect, analysts will be able to guide you through the design process and give you an idea of what is feasible.</p>"
+      },
+      {
+        "text": "After collecting the data",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect, analysts can help you design methods for collecting data and with data collection itself.</p>"
+      },
+      {
+        "text": "Right at the beginning",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct, consulting with analysts right at the beginning means that they can guide you on what is already available, what is feasible to collect (based on time, available resources etc) and help with designing, collecting and refining.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Consulting with analysts right at the beginning means that they can guide you on what is already available, what is feasible to collect (based on time, available resources etc) and help with designing, collecting and refining.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Consulting with analysts right at the beginning means that they can guide you on what is already available, what is feasible to collect (based on time, available resources etc) and help with designing, collecting and refining.&nbsp;</p>",
+        "notFinal": "<p>Consulting with analysts right at the beginning means that they can guide you on what is already available, what is feasible to collect (based on time, available resources etc) and help with designing, collecting and refining.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Consulting with analysts right at the beginning means that they can guide you on what is already available, what is feasible to collect (based on time, available resources etc) and help with designing, collecting and refining.&nbsp;</p>",
+        "notFinal": "<p>Consulting with analysts right at the beginning means that they can guide you on what is already available, what is feasible to collect (based on time, available resources etc) and help with designing, collecting and refining.&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Confirmation Bias",
+    "displayTitle": "",
+    "body": "<p>What is confirmation bias?</p>",
+    "_id": "61f268e24e98473e7dc5b2a5",
+    "_parentId": "61f268c94e98473e7dc5b2a4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Only using sources or information that agrees with existing beliefs or hypotheses.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The process of confirming that a data source is biased.",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. Confirmation bias is only using sources or information that agrees with existing beliefs or hypotheses.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Confirmation bias is only using sources or information that agrees with existing beliefs or hypotheses.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Confirmation bias is only using sources or information that agrees with existing beliefs or hypotheses.&nbsp;</p>",
+        "notFinal": "<p>Confirmation bias is only using sources or information that agrees with existing beliefs or hypotheses.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Confirmation bias is only using sources or information that agrees with existing beliefs or hypotheses.&nbsp;</p>",
+        "notFinal": "<p>Confirmation bias is only using sources or information that agrees with existing beliefs or hypotheses.&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data protection act",
+    "displayTitle": "",
+    "body": "<p>Which of the following does the Data Protection Act 2018 state that information must be?</p>",
+    "_id": "61f270874e98473e7dc5b2a7",
+    "_parentId": "61f2707e4e98473e7dc5b2a6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "\"accurate\"",
+        "_shouldBeSelected": true,
+        "feedback": "<p>All three answers are correct</p>"
+      },
+      {
+        "text": "\"used lawfully\"",
+        "_shouldBeSelected": true,
+        "feedback": "<p>All three answers are correct</p>"
+      },
+      {
+        "text": "\"handled in a way that ensures appropriate security\"",
+        "_shouldBeSelected": true,
+        "feedback": "<p>All three answers are correct</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>All three answers are correct.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>All three answers are correct.&nbsp;</p>",
+        "notFinal": "<p>All three answers are correct.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>All three answers are correct.&nbsp;</p>",
+        "notFinal": "<p>All three answers are correct.&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Code of Practice for Statistics",
+    "displayTitle": "",
+    "body": "<p>What are the 3 pillars of the Code of Practice for Statistics?</p><p>&nbsp;</p>",
+    "_id": "61f274ff4e98473e7dc5b2a9",
+    "_parentId": "61f274e64e98473e7dc5b2a8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer. ",
+    "_items": [
+      {
+        "text": "Trustworthiness, Quality and Value",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct. The 3 pillars of the Code of Practice for Statistics are trustworthiness, quality and value.&nbsp;</p>"
+      },
+      {
+        "text": "Timeliness, Accuracy and Reliability",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. The 3 pillars of the Code of Practice for Statistics are trustworthiness, quality and value.&nbsp;</p>"
+      },
+      {
+        "text": "Quality, Methods and Efficiency",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. The 3 pillars of the Code of Practice for Statistics are trustworthiness, quality and value.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>The 3 pillars of the Code of Practice for Statistics are trustworthiness, quality and value.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>The 3 pillars of the Code of Practice for Statistics are trustworthiness, quality and value.&nbsp;</p>",
+        "notFinal": "<p>The 3 pillars of the Code of Practice for Statistics are trustworthiness, quality and value.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>The 3 pillars of the Code of Practice for Statistics are trustworthiness, quality and value.&nbsp;</p>",
+        "notFinal": "<p>The 3 pillars of the Code of Practice for Statistics are trustworthiness, quality and value.&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Principles of analysis",
+    "displayTitle": "",
+    "body": "<p>What are the 3 principles of good analysis, discussed in the Quality Assurance of Code for Analysis and Research?</p>",
+    "_id": "61f400824e98473e7dc5b2d6",
+    "_parentId": "61f400794e98473e7dc5b2d5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer. ",
+    "_items": [
+      {
+        "text": "Recognizable, Accurate and Robust",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. The 3 founding principles of good analysis are Reproducible, Auditable and Assured.&nbsp;</p>"
+      },
+      {
+        "text": "Reproducible, Auditable and Assured",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct. The 3 founding principles of good analysis are Reproducible, Auditable and Assured.&nbsp;</p>"
+      },
+      {
+        "text": "Analytical, Responsible and Automated",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. The 3 founding principles of good analysis are Reproducible, Auditable and Assured.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>The 3 founding principles of good analysis are Reproducible, Auditable and Assured.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>The 3 founding principles of good analysis are Reproducible, Auditable and Assured.&nbsp;</p>",
+        "notFinal": "<p>The 3 founding principles of good analysis are Reproducible, Auditable and Assured.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>The 3 founding principles of good analysis are Reproducible, Auditable and Assured.&nbsp;</p>",
+        "notFinal": "<p>The 3 founding principles of good analysis are Reproducible, Auditable and Assured.&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data visualisation guidelines",
+    "displayTitle": "",
+    "body": "<p>The best practice guidelines for data visualisation were created by...</p>",
+    "_id": "61f401814e98473e7dc5b2d8",
+    "_parentId": "61f401754e98473e7dc5b2d7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer",
+    "_items": [
+      {
+        "text": "Data Quality Hub (DQHub)",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. The best practice for data visualistion guidelines were created by the Government Statistical Service (GSS).</p>"
+      },
+      {
+        "text": "Government Operational Research Service (GORS)",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect. The best practice for data visualistion guidelines were created by the Government Statistical Service (GSS).</p>"
+      },
+      {
+        "text": "Government Statistical Service (GSS)",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct. The best practice for data visualistion guidelines were created by the Government Statistical Service (GSS).</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>The best practice for data visualistion guidelines were created by the Government Statistical Service (GSS).</p>",
+      "_incorrect": {
+        "final": "<p>The best practice for data visualistion guidelines were created by the Government Statistical Service (GSS).</p>",
+        "notFinal": "<p>The best practice for data visualistion guidelines were created by the Government Statistical Service (GSS).</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>The best practice for data visualistion guidelines were created by the Government Statistical Service (GSS).</p>",
+        "notFinal": "<p>The best practice for data visualistion guidelines were created by the Government Statistical Service (GSS).</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Cherry-picking",
+    "displayTitle": "",
+    "body": "<p>What is 'cherry-picking' in data visualisation?</p>",
+    "_id": "61f402394e98473e7dc5b2da",
+    "_parentId": "61f402344e98473e7dc5b2d9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the correct answer. ",
+    "_items": [
+      {
+        "text": "When creators do not include the full scale on the axes, to distort the visualisation.",
+        "_shouldBeSelected": false,
+        "feedback": "<p>Incorrect, cherry-picking is when data has been intentionally or unintentionally omitted from the visualisation so that the data communicated only tells part of the story.&nbsp;</p>"
+      },
+      {
+        "text": "When data has been intentionally or unintentionally omitted from the visualisation so that the data communicated only tells part of the story. ",
+        "_shouldBeSelected": true,
+        "feedback": "<p>Correct, cherry-picking is&nbsp;when data has been intentionally or unintentionally omitted from the visualisation so that the data communicated only tells part of the story.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Cherry-picking is&nbsp;when data has been intentionally or unintentionally omitted from the visualisation so that the data communicated only tells part of the story.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Cherry-picking is&nbsp;when data has been intentionally or unintentionally omitted from the visualisation so that the data communicated only tells part of the story.&nbsp;</p>",
+        "notFinal": "<p>Cherry-picking is&nbsp;when data has been intentionally or unintentionally omitted from the visualisation so that the data communicated only tells part of the story.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Cherry-picking is&nbsp;when data has been intentionally or unintentionally omitted from the visualisation so that the data communicated only tells part of the story.&nbsp;</p>",
+        "notFinal": "<p>Cherry-picking is&nbsp;when data has been intentionally or unintentionally omitted from the visualisation so that the data communicated only tells part of the story.&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Communicating analysis",
+    "displayTitle": "",
+    "body": "<p>What can you do to best support the correct interpretation when communicating analysis?</p>",
+    "_id": "61f7c0754e98473e7dc5b2df",
+    "_parentId": "61f7c0714e98473e7dc5b2de",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select as many as apply. ",
+    "_items": [
+      {
+        "text": "Convey a range of possible outcomes",
+        "_shouldBeSelected": true,
+        "feedback": "<p>All listed answers are correct.&nbsp;</p>"
+      },
+      {
+        "text": "Explain how the level of uncertainty may affect the results",
+        "_shouldBeSelected": true,
+        "feedback": "<p>All listed answers are correct.&nbsp;</p>"
+      },
+      {
+        "text": "Consider a range of evidence from multiple sources",
+        "_shouldBeSelected": true,
+        "feedback": "<p>All listed answers are correct.&nbsp;</p>"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>All listed answers are correct.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>All listed answers are correct.&nbsp;</p>",
+        "notFinal": "<p>All listed answers are correct.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>All listed answers are correct.&nbsp;</p>",
+        "notFinal": "<p>All listed answers are correct.&nbsp;</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]

@@ -1,0 +1,272 @@
+{
+  "772be23c47071704668a4bf8912b17b141a16867.svg": {
+    "title": "lifecycle_fix.svg",
+    "description": "analytical lifecycle",
+    "tags": [
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "90152f1fc037b5f0df3d5eb4e53349868878603d.png": {
+    "title": "retail_sales_graph",
+    "description": "retail sales line graph",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      }
+    ]
+  },
+  "f575f850a3875b3d66d96de283bfcbf098bcb955.svg": {
+    "title": "regression.svg",
+    "description": "labelled regression plot",
+    "tags": []
+  },
+  "c33fb2a09ddde87b3886dade305112a55e1bcedf.svg": {
+    "title": "Logo blue.svg",
+    "description": "twitter_logo",
+    "tags": [
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "f44e0e0df60400857e84bd1a5f9a02303fa21ca2.png": {
+    "title": "AF logo_3_16ths.png",
+    "description": "3 16ths size analysis function logo",
+    "tags": [
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "35484b718209822b01664991031cba11ca811ff1.png": {
+    "title": "mis_bar_graph.png",
+    "description": "misleading bar chart, due to axes",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      }
+    ]
+  },
+  "9621c16213b4aed03130079b7c3ac74ba6bca5ee.png": {
+    "title": "bar_graph.png",
+    "description": "bar chart with accurate axes",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      }
+    ]
+  },
+  "e8bcc9861ef50e20e61776c5761b19e3ed24afe5.png": {
+    "title": "cherry_picked.png",
+    "description": "cherry picked line graph (missing values)",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      }
+    ]
+  },
+  "ad36a765ea5ff0b9d705493ee1a671c0987bd492.png": {
+    "title": "non_cherry_picked.png",
+    "description": "line graph with all observations included",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      }
+    ]
+  },
+  "5f7f44aadca3fdf4a0b183b0ec53f9c9979980e7.png": {
+    "title": "mis_pie_chart.png",
+    "description": "misleading pie chart due to angle distorting size",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      }
+    ]
+  },
+  "719faea5834ed1cb04b993aed9bc57d3aa2e02bf.png": {
+    "title": "pie_chart.png",
+    "description": "more accurate & representative pie chart",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      }
+    ]
+  },
+  "7ac488ebf56ebf44c852b176f8dc23166a7ded8c.png": {
+    "title": "AF_brain.png",
+    "description": "different roles of the analysis function coming together as one brain",
+    "tags": []
+  },
+  "6e478776df7431ec8b65007c6c10a5920d53e6cb.png": {
+    "title": "covid_positive.png",
+    "description": "covid positive test results between 9th March 2020 and 3rd January 2021",
+    "tags": [
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "ec17941ecc3991c09344ecfbae0dfe3273add0dc.png": {
+    "title": "food-standards-agency-logo.png",
+    "description": "Food standards agency logo",
+    "tags": [
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "foodstandardsagency",
+        "_id": "61d818194e98473e7dc5af08"
+      },
+      {
+        "title": "logo",
+        "_id": "61d818334e98473e7dc5af09"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "a55dda733cf9aab8b825e514ac8a8d610ab90fbf.png": {
+    "title": "CPI.png",
+    "description": "a graphic example of time series data using the consumer prices index",
+    "tags": [
+      {
+        "title": "economics",
+        "_id": "61dc03ac4e98473e7dc5af34"
+      },
+      {
+        "title": "timeseries",
+        "_id": "61dc03af4e98473e7dc5af35"
+      },
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      }
+    ]
+  },
+  "43508e7c4aad38e5f710422c63495791602458ed.png": {
+    "title": "ons_dfe.png",
+    "description": "office for national statistics and department for education logos",
+    "tags": [
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      },
+      {
+        "title": "ons",
+        "_id": "61dc09674e98473e7dc5af3a"
+      },
+      {
+        "title": "dfe",
+        "_id": "61dc096a4e98473e7dc5af3b"
+      }
+    ]
+  },
+  "878c5655e0be28f58e656cd45529db34c80f9037.svg": {
+    "title": "RAP flowchart.svg",
+    "description": "a flowchart representing a traditional analytical process in comparison to a reproducible analytical pipeline",
+    "tags": [
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      },
+      {
+        "title": "rap",
+        "_id": "61e13cbe4e98473e7dc5b00e"
+      }
+    ]
+  },
+  "78e95b5c468e9230a496fdd8683dea5ad034ba71.jpg": {
+    "title": "energy_efficiency_ratings.jpg",
+    "description": "woman writing on an energy efficiency rating",
+    "tags": [
+      {
+        "title": "analysis101",
+        "_id": "61386b884e98473e7dc5a83f"
+      },
+      {
+        "title": "analysis",
+        "_id": "61386b844e98473e7dc5a83e"
+      },
+      {
+        "title": "analytical_team",
+        "_id": "6086efc64e98473e7dc59e93"
+      },
+      {
+        "title": "energyefficiency",
+        "_id": "61e529af4e98473e7dc5b057"
+      }
+    ]
+  }
+}
